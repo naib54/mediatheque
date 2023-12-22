@@ -26,7 +26,7 @@ if (isset($_GET["region"])&&$_GET["region"]) {
 
 <form>
  <fieldset>
-<legend>Livres</legend>
+<legend>LISTE DES LIVRES</legend>
 Titre livre <input type="text"><br>
 Auteurlivre <input type="text"><br>
 Resumé <input type="text"><br>
